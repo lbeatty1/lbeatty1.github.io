@@ -9,44 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://lbeatty1.github.io/files/CVBeatty.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Economics, Macalester College, 2016
+* Ph.D in Agricultural and Resource Economics, University of Maryland, 2023 (expected)
 
-Work experience
+Fellowships and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *Fall 2021 - Spring 2023* - NBER Pre-Doctoral Fellowship in Environmental Economics
+* *2020* - Bessie H. DeVault Award for Best Paper by a Third-Year Student
+* *2018* - Rhona Lantin Memorial Scholarship for Best Paper by a First-Year Student
+* *2017-2022* - University of Maryland Flagship Fellowship
+* *2016* - Phi Beta Kappa
+* *2016* - 3M Scholar Award 
+* *2015* - John M. Dozier Prize in Economics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+References 
+========
+* Josh Linn
+* Roberton Williams
+* James Archsmith
+* Louis Preonas
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -54,6 +47,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
