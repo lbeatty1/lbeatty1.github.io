@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lauren Beatty"
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   bio              : "PhD Candidate in Agricultural and Resource Economics"
   location         : "University of Maryland"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lbeatty1"
+  github           : #"lbeatty1"
   google_plus      :
   keybase          :
   instagram        :
@@ -172,21 +172,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults

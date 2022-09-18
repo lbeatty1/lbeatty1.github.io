@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 Graduate Courses - Teaching Assistant
-======
+------------
 AREC 610 - Microeconomic Applications in Agricultural and Resource Markets 
 ***Spring 2019***
 
@@ -15,7 +15,7 @@ AREC 623 - Applied Econometrics
 ***Fall 2018***
 
 Undergraduate Courses - Teaching Assistant
-======
+--------------
 Abstract Algebra
 ***Spring 2016***
 

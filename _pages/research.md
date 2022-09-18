@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-boobs boobs boobs
+*Endogenous Network Growth With Spillover Effects: The Effect of Pipeline Networks on Flaring* (Job Market Paper)
+
+Coming Soon!
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
