@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-*Endogenous Network Growth With Spillover Effects: The Effect of Pipeline Networks on Flaring* (Job Market Paper)
+*A Dynamic Model of Oil and Gas Development With Flaring* (Job Market Paper)
 
 Coming Soon!
 

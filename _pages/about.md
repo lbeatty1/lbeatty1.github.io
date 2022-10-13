@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Agricultural and Resource Economics program at the University of Maryland.  I do research at the intersection of environmental economics and applied industrial organization.  I will be on the 2022-2023 job market and will be available for interviews at the ASSAs and at NABE Tech.
+I am a PhD candidate in the Agricultural and Resource Economics program at the University of Maryland.  I do research at the intersection of environmental economics and applied industrial organization.  I will be on the 2022-2023 job market and will be available for interviews at the ASSAs.
 
