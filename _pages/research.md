@@ -5,9 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-*A Dynamic Model of Oil and Gas Development With Flaring* (Job Market Paper)
+*How Do Natural Gas Pipeline Netowrks Affect Emissions From Drilling and Flaring* (Job Market Paper)
 
-Coming Soon!
+[Download](http://lbeatty1.github.io/files/Beatty_JMP.pdf)
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
