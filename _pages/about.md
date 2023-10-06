@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Agricultural and Resource Economics program at the University of Maryland.  I do research at the intersection of environmental economics and empirical industrial organization.  I will be on the 2022-2023 job market and will be available for interviews at the ASSAs.
-
+I am a Highmeadows Postdoctoral Fellow at the Environmental Defense Fund.  I do research at the intersection of environmental economics and empirical industrial organization, with a particular interest in studying policy options to reduce emissions from oil and gas production.  I received my PhD in Agricultural and Resource Economics from the University of Maryland.
