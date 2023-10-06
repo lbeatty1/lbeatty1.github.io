@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-##How Do Natural Gas Pipeline Networks Affect Emissions From Drilling and Flaring? (Job Market Paper)
+## How Do Natural Gas Pipeline Networks Affect Emissions From Drilling and Flaring? (Job Market Paper)
 
 [Download](http://lbeatty1.github.io/files/Beatty_JMP.pdf)
 
