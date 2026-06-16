@@ -18,7 +18,10 @@ gem "webrick"
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# wdm 0.1.x won't compile on Ruby 3.2+ (uses removed C API). It only speeds up
+# file-watching on Windows; serve with `--force-polling` instead. Windows-only
+# line, so this has no effect on the GitHub Pages (Linux) build.
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
