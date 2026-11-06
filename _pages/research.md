@@ -7,9 +7,9 @@ author_profile: true
 
 ## Working Papers
 
-**"Pricing the Social Cost of Flaring: Composition, Location, and Policy Implications."** With Mark Agerton, Wesley Blundell, Ben Gilbert, and Sophia Salzer. Submitted, February 2026. Available on [SSRN](https://dx.doi.org/10.2139/ssrn.6313938).
+**"Pricing the Social Cost of Flaring: Composition, Location, and Policy Implications."** With Mark Agerton, Wesley Blundell, Ben Gilbert, and Sophia Salzer. Submitted. Available on [SSRN](https://dx.doi.org/10.2139/ssrn.6313938).
 
-**"Pipelines, Drilling, and Environmental Externalities: Insights from a Dynamic Model of Natural Gas Flaring."** Draft Available Upon Request.
+**"Pipelines, Drilling, and Environmental Externalities: Insights from a Dynamic Model of Natural Gas Flaring."** Submitted.
 
 ## Works in Progress
 
